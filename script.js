@@ -9,7 +9,7 @@ const ratioSelect = document.getElementById("ratio-select");
 const gridGallery = document.querySelector(".gallery-grid");
 
 // Hugging Face API
-const API_KEY = "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";
+const API_KEY = "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";
 
 // Example Prompts list
 const examplePrompts = [
