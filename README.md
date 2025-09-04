@@ -1,36 +1,35 @@
-<!-- PROJECT LOGO -->
+# 🎨 Dream Canvas — Text-to-Image Generator
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/king-4-u/Dream-Canvas-Text-to-Image-Generator/main/test.png" alt="Dream Canvas" width="300" height="300">
 </p>
 
-<h1 align="center">🎨 Dream Canvas — Text-to-Image Generator</h1>
-
 <p align="center">
   Convert your imagination into stunning visuals.  
-  A lightweight, browser-based text-to-image generator powered by HTML, CSS, and JavaScript.
+  A lightweight, browser-based **Text-to-Image Generator** built with **HTML, CSS, and JavaScript**.
 </p>
 
 <p align="center">
   <a href="https://github.com/king-4-u/Dream-Canvas-Text-to-Image-Generator/stargazers">
-    <img src="https://img.shields.io/github/stars/king-4-u/Dream-Canvas-Text-to-Image-Generator?color=yellow&style=for-the-badge">
-  </a>
-  <a href="https://github.com/king-4-u/Dream-Canvas-Text-to-Image-Generator/issues">
-    <img src="https://img.shields.io/github/issues/king-4-u/Dream-Canvas-Text-to-Image-Generator?color=red&style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/king-4-u/Dream-Canvas-Text-to-Image-Generator?style=for-the-badge&color=yellow" alt="Stars">
   </a>
   <a href="https://github.com/king-4-u/Dream-Canvas-Text-to-Image-Generator/network/members">
-    <img src="https://img.shields.io/github/forks/king-4-u/Dream-Canvas-Text-to-Image-Generator?style=for-the-badge">
+    <img src="https://img.shields.io/github/forks/king-4-u/Dream-Canvas-Text-to-Image-Generator?style=for-the-badge&color=blue" alt="Forks">
+  </a>
+  <a href="https://github.com/king-4-u/Dream-Canvas-Text-to-Image-Generator/issues">
+    <img src="https://img.shields.io/github/issues/king-4-u/Dream-Canvas-Text-to-Image-Generator?style=for-the-badge&color=red" alt="Issues">
   </a>
   <a href="https://github.com/king-4-u/Dream-Canvas-Text-to-Image-Generator/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/king-4-u/Dream-Canvas-Text-to-Image-Generator?style=for-the-badge">
+    <img src="https://img.shields.io/github/license/king-4-u/Dream-Canvas-Text-to-Image-Generator?style=for-the-badge&color=green" alt="License">
   </a>
 </p>
 
 ---
 
-## **📌 Table of Contents**
+## 📌 Table of Contents
 - [✨ Overview](#-overview)
-- [🌐 Live Demo](#-live-demo)
 - [🚀 Features](#-features)
+- [📸 Live Demo](#-live-demo)
 - [📂 Project Structure](#-project-structure)
 - [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
 - [⚡ Getting Started](#-getting-started)
@@ -38,50 +37,35 @@
 - [📸 Screenshots](#-screenshots)
 - [🗺️ Roadmap](#%EF%B8%8F-roadmap)
 - [🤝 Contributing](#-contributing)
-- [❓ FAQ](#-faq)
 - [📜 License](#-license)
 - [📧 Contact](#-contact)
 
 ---
 
-## **✨ Overview**
-Dream Canvas is a simple yet powerful **Text-to-Image Generator** built using **HTML, CSS, and JavaScript**.  
-It allows you to **enter a prompt** and instantly **generate a visual output** inside your browser — **no server or installation required**.
-
-Perfect for developers, designers, and creative enthusiasts who want to visualize their thoughts instantly.
+## ✨ Overview
+Dream Canvas is a **Text-to-Image Generator** designed to turn your **words into visuals instantly**.  
+Built with **HTML, CSS, and JavaScript**, it works **entirely in the browser** — no installation, no backend, and no API keys required.
 
 ---
 
-## **🌐 Live Demo**
-🚀 **Coming Soon!**  
-*(Optional: If you host it on GitHub Pages, add your demo link here)*
+## 🚀 Features
+✅ Convert text prompts into visual images instantly  
+✅ 100% browser-based — **no server required**  
+✅ Offline support — runs locally without an internet connection  
+✅ Lightweight & blazing fast  
+✅ Easy to customize  
+✅ Open-source & free
 
 ---
 
-## **🚀 Features**
-✅ **Text-to-Image Conversion** — Convert words into visuals  
-✅ **Instant Preview** — Real-time output rendering  
-✅ **Lightweight & Fast** — Pure HTML, CSS, and JS  
-✅ **Offline Support** — Works locally without any backend  
-✅ **Easy to Customize** — Modify UI, colors, and styles  
-✅ **Open-Source & Free** — Contribute and improve together
+## 📸 Live Demo
+> 🔗 **Live Demo**: [https://king-4-u.github.io/Dream-Canvas-Text-to-Image-Generator/](https://king-4-u.github.io/Dream-Canvas-Text-to-Image-Generator/)
+
+*(Enable this by hosting on **GitHub Pages** → Settings → Pages → Deploy from Branch → `main`)*
 
 ---
 
-## **📂 Project Structure**
-Dream-Canvas-Text-to-Image-Generator/
-├── index.html # Main application file
-├── style.css # Styling and UI design
-├── script.js # Core logic for image generation
-├── test.png # Example output image
-└── README.md # Project documentation
-
-
----
-
-## **🛠️ Tech Stack**
-| Technology  | Purpose |
-|------------|---------|
+## 📂 Project Structure
 | **HTML5**  | Structure of the app |
 | **CSS3**   | Styling & layout |
 | **JavaScript** | Core functionality |
@@ -92,7 +76,7 @@ Dream-Canvas-Text-to-Image-Generator/
 ## **⚡ Getting Started**
 
 ### **1. Clone the Repository**
-```bash
+bash
 git clone https://github.com/king-4-u/Dream-Canvas-Text-to-Image-Generator.git
 cd Dream-Canvas-Text-to-Image-Generator
 
